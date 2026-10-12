@@ -1,4 +1,4 @@
- # MailPilot AI
+ # ✉ MailPilot AI
 
 **An agentic Gmail workspace that classifies emails, detects spam, generates contextual reply drafts, and keeps the user in control of every outbound action.**
 
