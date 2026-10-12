@@ -22,7 +22,7 @@ TIMEOUT = (5, 30)
 
 st.set_page_config(
     page_title="MailPilot AI · Smart Inbox",
-    page_icon="✉️",
+    page_icon="✉",
     layout="wide",
     initial_sidebar_state="expanded",
 )
